@@ -1,0 +1,3 @@
+Declare a class ‘Student’ with data members ‘name’, ‘roll number’ and ‘marks’. 
+Also declare a class ‘MyRecord’ which inherited from class ‘Student’. Display name,
+ roll number and percentage by creating the object of class MyRecord.

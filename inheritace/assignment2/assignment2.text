@@ -1,0 +1,4 @@
+Implement the inheritance as shown in below diagram. Use appropriate setter/getter and constructor to initialize
+the access the values. 
+Use “super” keyword to initialize the Contact class properties. Also provide a method printContact() to 
+print the contact detail in Contact class and override the same method according to CompanyContact and EmployeeContact.
